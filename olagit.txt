@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 Criação 
 de 
 repositório 
 GitHub
+=======
+Criação 
+de 
+repositório 
+GitHub
+>>>>>>> origin/master
 Paloma
